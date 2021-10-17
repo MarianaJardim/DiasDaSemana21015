@@ -1,0 +1,16 @@
+C:\ams\1ano\semestre2\DayOfWeek\DiasDaSemanatarefa\bin\Debug\net5.0\DiasDaSemanatarefa.exe
+C:\ams\1ano\semestre2\DayOfWeek\DiasDaSemanatarefa\bin\Debug\net5.0\DiasDaSemanatarefa.deps.json
+C:\ams\1ano\semestre2\DayOfWeek\DiasDaSemanatarefa\bin\Debug\net5.0\DiasDaSemanatarefa.runtimeconfig.json
+C:\ams\1ano\semestre2\DayOfWeek\DiasDaSemanatarefa\bin\Debug\net5.0\DiasDaSemanatarefa.runtimeconfig.dev.json
+C:\ams\1ano\semestre2\DayOfWeek\DiasDaSemanatarefa\bin\Debug\net5.0\DiasDaSemanatarefa.dll
+C:\ams\1ano\semestre2\DayOfWeek\DiasDaSemanatarefa\bin\Debug\net5.0\ref\DiasDaSemanatarefa.dll
+C:\ams\1ano\semestre2\DayOfWeek\DiasDaSemanatarefa\bin\Debug\net5.0\DiasDaSemanatarefa.pdb
+C:\ams\1ano\semestre2\DayOfWeek\DiasDaSemanatarefa\obj\Debug\net5.0\DiasDaSemanatarefa.csproj.AssemblyReference.cache
+C:\ams\1ano\semestre2\DayOfWeek\DiasDaSemanatarefa\obj\Debug\net5.0\DiasDaSemanatarefa.GeneratedMSBuildEditorConfig.editorconfig
+C:\ams\1ano\semestre2\DayOfWeek\DiasDaSemanatarefa\obj\Debug\net5.0\DiasDaSemanatarefa.AssemblyInfoInputs.cache
+C:\ams\1ano\semestre2\DayOfWeek\DiasDaSemanatarefa\obj\Debug\net5.0\DiasDaSemanatarefa.AssemblyInfo.cs
+C:\ams\1ano\semestre2\DayOfWeek\DiasDaSemanatarefa\obj\Debug\net5.0\DiasDaSemanatarefa.csproj.CoreCompileInputs.cache
+C:\ams\1ano\semestre2\DayOfWeek\DiasDaSemanatarefa\obj\Debug\net5.0\DiasDaSemanatarefa.dll
+C:\ams\1ano\semestre2\DayOfWeek\DiasDaSemanatarefa\obj\Debug\net5.0\ref\DiasDaSemanatarefa.dll
+C:\ams\1ano\semestre2\DayOfWeek\DiasDaSemanatarefa\obj\Debug\net5.0\DiasDaSemanatarefa.pdb
+C:\ams\1ano\semestre2\DayOfWeek\DiasDaSemanatarefa\obj\Debug\net5.0\DiasDaSemanatarefa.genruntimeconfig.cache
